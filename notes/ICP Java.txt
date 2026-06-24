@@ -1,0 +1,56 @@
+Agile:
+Fast paced
+iteration 2 or 3 weeks release
+working copy [receive feedback, faster release cycle]
+
+500 features to be developed -- product backlog
+20 features in this spring -- spring backlog
+duration of the release cycle -- iteration
+
+Every mornig team meet as an update -- stand up meeting
+- what work yesterday
+- plan to work today
+- any road blocks?
+
+
+mid assessment
+-agile
+-devops
+- html css js
+- sql - dml,ddl,dcl,joins,functions, inner joins
+- java - complete java
+- spring - spring core, spring mvc, spring boot, spring microserivces 
+
+
+
+
+html/css/js agile devops core java
+
+html/css/bs/js ---> Spring Boot (Spring REST) -----> Spring JPA ------> MYSQL
+
+
+dmello wilma
+
+
+HTML
+CSS
+BS
+JS
+CORE JAVA (a) Basics (b) java 8 features
+
+
+=========================Questions=================
+
+What is it.
+What is the benefit.
+When do I use it.
+How do I write the code for it.
+How does it work
+How does it work internally.
+Give me the java code with line by line explanation of the code.  write one line of comment above each line of code.
+Where do I use it in a practice scenario.
+Anything which I need to know about it in advance level.
+ 
+Give 3 sentences for each questions as a paragraph.
+
+
